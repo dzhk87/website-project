@@ -28,9 +28,7 @@ class LogIn extends React.Component {
 
     } catch (error) {
       alert(error)
-    }
-
-    
+    }    
   }
 
   handleChange = event => {
